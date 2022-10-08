@@ -21,7 +21,7 @@
        
     
     </body>
- <iframe height=200px" scrollingattribute:scrolling="no" src='https://my.spline.design/untitled-e6cc66f105a11fff0f55b93fda98eba2/' frameborder='0' width='100%' height='100%'></iframe>
+ <iframe height="300" width = “250" scrollingattribute:scrolling="no" src='https://my.spline.design/untitled-e6cc66f105a11fff0f55b93fda98eba2/' frameborder='0' width='100%' height='100%'></iframe>
     
 
 <style>
